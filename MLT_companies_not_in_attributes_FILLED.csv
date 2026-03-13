@@ -1,0 +1,135 @@
+Company,Sector,Industry Sub-sector,Public / Private,HQ City,Founded Year,Company Age (Yrs),Num Employees,Company Size Bucket,Annual Revenue ($B),Market Cap ($B),Fortune 500 Rank,Is Fortune 500?,DiversityInc Top 50?
+Apple,Technology,Consumer Electronics / Software,Public,Cupertino CA,1976.0,49.0,164000.0,Enterprise (50K+),383.3,3400.0,3.0,Yes,Yes
+Meta,Technology,Social Media / AI,Public,Menlo Park CA,2004.0,21.0,72000.0,Enterprise (50K+),134.9,1500.0,27.0,Yes,Yes
+NVIDIA,Technology,Semiconductors / AI,Public,Santa Clara CA,1993.0,32.0,30000.0,Large (10K-50K),60.9,2800.0,97.0,Yes,No
+IBM,Technology,IT Services / Cloud,Public,Armonk NY,1911.0,114.0,288000.0,Enterprise (50K+),61.9,200.0,63.0,Yes,Yes
+International Business Machines Corporation (IBM),Technology,IT Services / Cloud,Public,Armonk NY,1911.0,114.0,288000.0,Enterprise (50K+),61.9,200.0,63.0,Yes,Yes
+Hewlett-Packard (HP),Technology,Hardware / IT,Public,Palo Alto CA,1939.0,86.0,58000.0,Enterprise (50K+),53.7,32.0,62.0,Yes,No
+Oracle,Technology,Enterprise Software / Cloud,Public,Austin TX,1977.0,48.0,164000.0,Enterprise (50K+),53.0,380.0,80.0,Yes,No
+Intel,Technology,Semiconductors,Public,Santa Clara CA,1968.0,57.0,124800.0,Enterprise (50K+),54.2,100.0,66.0,Yes,Yes
+SAP,Technology,Enterprise Software,Public,Walldorf Germany (US: Newtown Square PA),1972.0,53.0,107000.0,Enterprise (50K+),34.5,280.0,,No,No
+Figma,Technology,Design Software,Private,San Francisco CA,2012.0,13.0,1500.0,Mid (1K-10K),0.6,,,No,No
+Atlassian,Technology,Collaboration Software,Public,Sydney (US: San Francisco CA),2002.0,23.0,12000.0,Large (10K-50K),4.4,55.0,,No,No
+Duolingo,Technology,EdTech,Public,Pittsburgh PA,2011.0,14.0,800.0,Small (<1K),0.6,12.0,,No,No
+Roblox,Technology,Gaming Platform,Public,San Mateo CA,2004.0,21.0,2100.0,Mid (1K-10K),2.7,30.0,,No,No
+Pinterest,Technology,Social Media,Public,San Francisco CA,2010.0,15.0,4000.0,Mid (1K-10K),3.1,18.0,,No,No
+Dropbox,Technology,Cloud Storage,Public,San Francisco CA,2007.0,18.0,3000.0,Mid (1K-10K),2.5,10.0,,No,No
+Spotify,Technology,Music Streaming,Public,Stockholm (US: New York NY),2006.0,19.0,9000.0,Mid (1K-10K),15.7,75.0,,No,No
+Workday,Technology,Enterprise HR/Finance Software,Public,Pleasanton CA,2005.0,20.0,18800.0,Large (10K-50K),7.3,70.0,,No,No
+DoorDash,Technology,Food Delivery Platform,Public,San Francisco CA,2013.0,12.0,19000.0,Large (10K-50K),8.6,60.0,,No,No
+Uber,Technology,Ride-hailing / Delivery,Public,San Francisco CA,2009.0,16.0,32800.0,Large (10K-50K),37.3,155.0,,No,No
+Tesla Motors,Technology,Electric Vehicles / Energy,Public,Austin TX,2003.0,22.0,140000.0,Enterprise (50K+),96.8,800.0,42.0,Yes,No
+Datadog,Technology,Cloud Monitoring,Public,New York NY,2010.0,15.0,5500.0,Mid (1K-10K),2.1,42.0,,No,No
+eBay,Technology,E-commerce,Public,San Jose CA,1995.0,30.0,12000.0,Large (10K-50K),10.1,22.0,,No,No
+Pandora,Technology,Music Streaming,Public,Oakland CA,2000.0,25.0,2500.0,Mid (1K-10K),2.0,,,No,No
+Lyft,Technology,Ride-hailing,Public,San Francisco CA,2012.0,13.0,4800.0,Mid (1K-10K),4.4,5.0,,No,No
+Slack,Technology,Collaboration Software,Private (Salesforce),San Francisco CA,2009.0,16.0,3500.0,Mid (1K-10K),1.5,,,No,No
+"Snap, Inc.",Technology,Social Media,Public,Santa Monica CA,2011.0,14.0,5300.0,Mid (1K-10K),4.6,12.0,,No,No
+Electronic Arts (EA),Technology,Video Games,Public,Redwood City CA,2982.0,-957.0,7500.0,Mid (1K-10K),7.6,35.0,,No,No
+Nintendo,Technology,Video Games / Hardware,Public,Kyoto Japan (US: Redmond WA),1889.0,136.0,7300.0,Mid (1K-10K),12.4,85.0,,No,No
+ServiceNow,Technology,Enterprise Cloud Software,Public,Santa Clara CA,2004.0,21.0,23000.0,Large (10K-50K),9.0,200.0,,No,No
+Qualcomm,Technology,Semiconductors / Wireless,Public,San Diego CA,1985.0,40.0,51000.0,Enterprise (50K+),38.5,180.0,101.0,Yes,No
+CodePath,Technology,EdTech / Nonprofit,Nonprofit,San Francisco CA,2017.0,8.0,200.0,Small (<1K),,,,No,No
+PayPal,Technology,Digital Payments,Public,San Jose CA,1998.0,27.0,27000.0,Large (10K-50K),29.8,75.0,103.0,Yes,No
+"Asana, Inc.",Technology,Project Management Software,Public,San Francisco CA,2008.0,17.0,2000.0,Mid (1K-10K),0.7,5.0,,No,No
+Two Sigma,Technology,Quantitative Finance / AI,Private,New York NY,2001.0,24.0,2000.0,Mid (1K-10K),,,,No,No
+Morgan Stanley,Finance/Fintech,Investment Banking,Public,New York NY,1935.0,90.0,82000.0,Enterprise (50K+),54.1,150.0,61.0,Yes,Yes
+American Express Company Inc.,Finance/Fintech,Financial Services / Payments,Public,New York NY,1850.0,175.0,77300.0,Enterprise (50K+),55.6,190.0,67.0,Yes,Yes
+American Express,Finance/Fintech,Financial Services / Payments,Public,New York NY,1850.0,175.0,77300.0,Enterprise (50K+),55.6,190.0,67.0,Yes,Yes
+Wellington Management Company LLP,Finance/Fintech,Asset Management,Private,Boston MA,1928.0,97.0,3700.0,Mid (1K-10K),,,,No,No
+Vanguard Group,Finance/Fintech,Asset Management,Private (Mutual),Malvern PA,1975.0,50.0,20000.0,Large (10K-50K),8.0,,,No,No
+Millennium Management,Finance/Fintech,Hedge Fund,Private,New York NY,1989.0,36.0,5500.0,Mid (1K-10K),,,,No,No
+Fidelity Investments,Finance/Fintech,Asset Management / Brokerage,Private,Boston MA,1946.0,79.0,74000.0,Enterprise (50K+),28.0,,,No,No
+AQR Capital Management,Finance/Fintech,Quantitative Hedge Fund,Private,Greenwich CT,1998.0,27.0,1000.0,Mid (1K-10K),,,,No,No
+PGIM,Finance/Fintech,Asset Management (Prudential),Public (Prudential),Newark NJ,2003.0,22.0,3500.0,Mid (1K-10K),,,,No,No
+Fannie Mae,Finance/Fintech,Mortgage Finance (GSE),Public (Gov-Sponsored),Washington DC,1938.0,87.0,8000.0,Mid (1K-10K),28.9,,20.0,Yes,Yes
+PIMCO,Finance/Fintech,Fixed Income / Asset Management,Private (Allianz),Newport Beach CA,1971.0,54.0,3400.0,Mid (1K-10K),,,,No,No
+BNY Mellon,Finance/Fintech,Custodian Banking,Public,New York NY,1784.0,241.0,52600.0,Enterprise (50K+),18.4,50.0,138.0,Yes,No
+Deutsche Bank,Finance/Fintech,Investment Banking,Public,Frankfurt (US: New York NY),1870.0,155.0,90000.0,Enterprise (50K+),32.0,20.0,,No,No
+Barclays Capital,Finance/Fintech,Investment Banking,Public,London (US: New York NY),1690.0,335.0,90000.0,Enterprise (50K+),30.0,30.0,,No,No
+Blackstone,Finance/Fintech,Private Equity / Alt. Investments,Public,New York NY,1985.0,40.0,4900.0,Mid (1K-10K),7.2,175.0,,No,No
+Piper Sandler,Finance/Fintech,Investment Banking,Public,Minneapolis MN,1895.0,130.0,1700.0,Mid (1K-10K),1.5,3.0,,No,No
+Bridgewater Associates LP,Finance/Fintech,Hedge Fund,Private,Westport CT,1975.0,50.0,1500.0,Mid (1K-10K),,,,No,No
+Citadel LLC,Finance/Fintech,Hedge Fund / Market Making,Private,Miami FL,1990.0,35.0,4200.0,Mid (1K-10K),,,,No,No
+The D.E. Shaw Group,Finance/Fintech,Quantitative Hedge Fund,Private,New York NY,1988.0,37.0,2500.0,Mid (1K-10K),,,,No,No
+RBC Capital Markets,Finance/Fintech,Investment Banking,Public,Toronto (US: New York NY),1869.0,156.0,97000.0,Enterprise (50K+),38.0,130.0,,No,No
+BNP Paribas,Finance/Fintech,Investment Banking,Public,Paris (US: New York NY),1848.0,177.0,190000.0,Enterprise (50K+),51.0,40.0,,No,No
+Moody's,Finance/Fintech,Credit Ratings / Analytics,Public,New York NY,1909.0,116.0,15000.0,Large (10K-50K),5.9,50.0,,No,No
+Evercore,Finance/Fintech,Investment Banking Advisory,Public,New York NY,1995.0,30.0,2200.0,Mid (1K-10K),2.9,15.0,,No,No
+U.S. Bank,Finance/Fintech,Banking,Public,Minneapolis MN,1863.0,162.0,77000.0,Enterprise (50K+),23.2,50.0,115.0,Yes,No
+William Blair,Finance/Fintech,Investment Banking / AM,Private,Chicago IL,1935.0,90.0,1700.0,Mid (1K-10K),,,,No,No
+Jefferies,Finance/Fintech,Investment Banking,Public,New York NY,1962.0,63.0,6600.0,Mid (1K-10K),5.3,12.0,,No,No
+Lazard,Finance/Fintech,Investment Banking Advisory,Public,New York NY,1848.0,177.0,3200.0,Mid (1K-10K),2.8,12.0,,No,No
+Truist,Finance/Fintech,Banking,Public,Charlotte NC,2019.0,6.0,52000.0,Enterprise (50K+),19.6,50.0,113.0,Yes,Yes
+BMO Financial Group,Finance/Fintech,Banking,Public,Toronto (US: Chicago IL),1817.0,208.0,46000.0,Large (10K-50K),22.8,45.0,,No,No
+S&P Global,Finance/Fintech,Financial Data / Ratings,Public,New York NY,1860.0,165.0,40000.0,Large (10K-50K),12.5,130.0,297.0,Yes,No
+Raymond James,Finance/Fintech,Financial Services / Wealth,Public,St. Petersburg FL,1962.0,63.0,16000.0,Large (10K-50K),12.8,20.0,189.0,Yes,No
+LPL Financial,Finance/Fintech,Brokerage / Wealth Management,Public,San Diego CA,1989.0,36.0,6900.0,Mid (1K-10K),10.1,12.0,240.0,Yes,No
+Principal Financial,Finance/Fintech,Insurance / Asset Management,Public,Des Moines IA,1879.0,146.0,20000.0,Large (10K-50K),16.2,30.0,192.0,Yes,No
+"Prudential Financial, Inc.",Finance/Fintech,Insurance / Asset Management,Public,Newark NJ,1875.0,150.0,40000.0,Large (10K-50K),51.2,42.0,52.0,Yes,Yes
+Liberty Mutual Insurance,Finance/Fintech,Insurance,Private (Mutual),Boston MA,1912.0,113.0,45000.0,Large (10K-50K),49.4,,,Yes,No
+Fidelity Consulting,Finance/Fintech,Financial Consulting (Fidelity),Private,Boston MA,1946.0,79.0,74000.0,Enterprise (50K+),28.0,,,No,No
+Ares Management,Finance/Fintech,Alternative Asset Management,Public,Los Angeles CA,1997.0,28.0,3000.0,Mid (1K-10K),3.7,36.0,,No,No
+EY-Parthenon,Consulting,Strategy Consulting (EY),Private,New York NY,1991.0,34.0,400000.0,Enterprise (50K+),49.4,,,No,Yes
+McKinsey & Company,Consulting,Management Consulting,Private,New York NY,1926.0,99.0,45000.0,Large (10K-50K),16.0,,,No,No
+LEK Consulting,Consulting,Strategy Consulting,Private,London (US: Boston MA),1983.0,42.0,2200.0,Mid (1K-10K),0.6,,,No,No
+Protiviti,Consulting,Risk / IT Consulting,Private (Robert Half),Menlo Park CA,2002.0,23.0,9000.0,Mid (1K-10K),1.5,,,No,No
+Analysis Group,Consulting,Economic / Litigation Consulting,Private,Boston MA,1981.0,44.0,1500.0,Mid (1K-10K),0.5,,,No,No
+Gartner,Consulting,IT Research / Advisory,Public,Stamford CT,1979.0,46.0,20000.0,Large (10K-50K),6.0,25.0,352.0,Yes,No
+FTI Consulting,Consulting,Forensic / Litigation Consulting,Public,Washington DC,1982.0,43.0,8000.0,Mid (1K-10K),3.5,12.0,,No,No
+The Bridgespan Group,Consulting,Nonprofit Strategy Consulting,Nonprofit,Boston MA,2000.0,25.0,350.0,Small (<1K),,,,No,No
+Monitor Group,Consulting,Strategy Consulting (Deloitte),Private (Deloitte),Cambridge MA,1983.0,42.0,1500.0,Mid (1K-10K),,,,No,No
+Booz Allen Hamilton,Consulting,Government / Defense Consulting,Public,McLean VA,1914.0,111.0,34000.0,Large (10K-50K),9.4,30.0,172.0,Yes,No
+RSM,Consulting,Audit / Tax / Consulting,Private,Chicago IL,1926.0,99.0,17000.0,Large (10K-50K),3.2,,,No,No
+Chick-Fil-A,CPG/Retail,Quick-Service Restaurants,Private,Atlanta GA,1967.0,58.0,36000.0,Large (10K-50K),22.0,,,No,No
+Danone North America,CPG/Retail,Food & Beverage,Public,Paris (US: Broomfield CO),1919.0,106.0,86000.0,Enterprise (50K+),28.6,50.0,,No,No
+Ferrara Candy Company,CPG/Retail,Confectionery,Private (Ferrero),Chicago IL,1908.0,117.0,7000.0,Mid (1K-10K),3.0,,,No,No
+L'Oreal USA Inc.,CPG/Retail,Beauty / Cosmetics,Public,Paris (US: New York NY),1909.0,116.0,87000.0,Enterprise (50K+),42.0,340.0,,No,Yes
+Altria,CPG/Retail,Tobacco / Consumer Products,Public,Richmond VA,1919.0,106.0,6000.0,Mid (1K-10K),20.5,85.0,161.0,Yes,No
+Procter & Gamble,CPG/Retail,Consumer Goods,Public,Cincinnati OH,1837.0,188.0,107000.0,Enterprise (50K+),82.0,360.0,23.0,Yes,Yes
+Colgate-Palmolive Company,CPG/Retail,Consumer Goods / Oral Care,Public,New York NY,1806.0,219.0,34000.0,Large (10K-50K),19.5,80.0,167.0,Yes,Yes
+Anheuser-Busch InBev,CPG/Retail,Beverages / Beer,Public,Leuven Belgium (US: St. Louis MO),1366.0,659.0,150000.0,Enterprise (50K+),57.8,120.0,,No,No
+The Clorox Company,CPG/Retail,Consumer Goods / Cleaning,Public,Oakland CA,1913.0,112.0,8700.0,Mid (1K-10K),7.1,18.0,390.0,Yes,No
+Hallmark Cards,CPG/Retail,Greeting Cards / Media,Private,Kansas City MO,1910.0,115.0,27000.0,Large (10K-50K),4.0,,,No,No
+Kimberly-Clark,CPG/Retail,Consumer Paper Products,Public,Irving TX,1872.0,153.0,40000.0,Large (10K-50K),20.0,45.0,170.0,Yes,No
+Reckitt,CPG/Retail,Consumer Health / Hygiene,Public,Slough UK (US: Parsippany NJ),1823.0,202.0,40000.0,Large (10K-50K),16.0,50.0,,No,No
+Nordstrom,CPG/Retail,Department Stores / Retail,Private,Seattle WA,1901.0,124.0,60000.0,Enterprise (50K+),14.7,,,No,No
+Estee Lauder,CPG/Retail,Beauty / Cosmetics,Public,New York NY,1946.0,79.0,62000.0,Enterprise (50K+),15.9,50.0,228.0,Yes,No
+Unilever,CPG/Retail,Consumer Goods,Public,London (US: Englewood Cliffs NJ),1929.0,96.0,127000.0,Enterprise (50K+),62.0,100.0,,No,No
+E.L.F Cosmetics,CPG/Retail,Beauty / Cosmetics,Public,Oakland CA,2004.0,21.0,1300.0,Mid (1K-10K),1.0,7.0,,No,No
+Under Armour,CPG/Retail,Athletic Apparel,Public,Baltimore MD,1996.0,29.0,16400.0,Large (10K-50K),5.7,5.0,,No,No
+The Coca-Cola Company,CPG/Retail,Beverages,Public,Atlanta GA,1886.0,139.0,79000.0,Enterprise (50K+),45.8,270.0,93.0,Yes,Yes
+Restaurant Brands International,CPG/Retail,Quick-Service Restaurants,Public,Toronto (US: Miami FL),2014.0,11.0,4000.0,Mid (1K-10K),7.0,10.0,,No,No
+Macy's,CPG/Retail,Department Stores / Retail,Public,New York NY,1858.0,167.0,85000.0,Enterprise (50K+),23.1,5.0,140.0,Yes,No
+Home Depot,CPG/Retail,Home Improvement Retail,Public,Atlanta GA,1978.0,47.0,475000.0,Enterprise (50K+),157.4,400.0,17.0,Yes,Yes
+"Wal-Mart Stores, Inc.",CPG/Retail,Mass Retail,Public,Bentonville AR,1962.0,63.0,2100000.0,Enterprise (50K+),611.3,550.0,1.0,Yes,Yes
+The Walt Disney Company,Media/Entertainment,Media Conglomerate,Public,Burbank CA,1923.0,102.0,220000.0,Enterprise (50K+),88.9,200.0,53.0,Yes,Yes
+NBC Universal,Media/Entertainment,Media / Broadcasting (Comcast),Public (Comcast),New York NY,2004.0,21.0,35000.0,Large (10K-50K),40.0,,,No,No
+Creative Artists Agency (CAA),Media/Entertainment,Talent Agency,Private,Los Angeles CA,1975.0,50.0,3000.0,Mid (1K-10K),1.0,,,No,No
+National Football League - NFL,Media/Entertainment,Professional Sports,Nonprofit,New York NY,1920.0,105.0,15000.0,Large (10K-50K),18.7,,,No,No
+National Basketball Association - NBA,Media/Entertainment,Professional Sports,Nonprofit (Assoc.),New York NY,1946.0,79.0,5000.0,Mid (1K-10K),10.0,,,No,No
+Paramount Pictures,Media/Entertainment,Film / Streaming,Public,Hollywood CA,1912.0,113.0,22000.0,Large (10K-50K),29.6,,,No,No
+Medtronic,Healthcare/Pharma,Medical Devices,Public,Dublin (US: Minneapolis MN),1949.0,76.0,95000.0,Enterprise (50K+),32.0,110.0,82.0,Yes,No
+Abbott,Healthcare/Pharma,Medical Devices / Diagnostics,Public,Abbott Park IL,1888.0,137.0,114000.0,Enterprise (50K+),40.1,200.0,72.0,Yes,No
+Johnson & Johnson,Healthcare/Pharma,Pharma / MedDevice / Consumer,Public,New Brunswick NJ,1886.0,139.0,131900.0,Enterprise (50K+),85.2,380.0,36.0,Yes,Yes
+CVS Health,Healthcare/Pharma,Pharmacy / Health Services,Public,Woonsocket RI,1963.0,62.0,300000.0,Enterprise (50K+),357.8,95.0,6.0,Yes,Yes
+United Health Group (UHG),Healthcare/Pharma,Health Insurance / Services,Public,Minnetonka MN,1977.0,48.0,400000.0,Enterprise (50K+),371.6,510.0,5.0,Yes,Yes
+Boeing,Industrial/Defense,Aerospace / Defense,Public,Arlington VA,1916.0,109.0,170000.0,Enterprise (50K+),77.8,100.0,35.0,Yes,No
+Lockheed Martin Aeronautics Co,Industrial/Defense,Aerospace / Defense,Public,Bethesda MD,1926.0,99.0,122000.0,Enterprise (50K+),67.6,130.0,44.0,Yes,No
+Honeywell,Industrial/Defense,Diversified Industrial,Public,Charlotte NC,1906.0,119.0,97000.0,Enterprise (50K+),36.7,135.0,107.0,Yes,No
+General Electric Company (GE),Industrial/Defense,Diversified Industrial / Aviation,Public,Boston MA,1892.0,133.0,125000.0,Enterprise (50K+),68.0,200.0,57.0,Yes,No
+Northrop Grumman,Industrial/Defense,Aerospace / Defense,Public,Falls Church VA,1939.0,86.0,95000.0,Enterprise (50K+),39.3,80.0,100.0,Yes,No
+General Motors Corporation,Industrial/Defense,Automotive,Public,Detroit MI,1908.0,117.0,167000.0,Enterprise (50K+),171.8,55.0,25.0,Yes,Yes
+ExxonMobil Corp.,Industrial/Defense,Oil & Gas,Public,Spring TX,1999.0,26.0,62000.0,Enterprise (50K+),344.6,460.0,7.0,Yes,No
+Chevron Corporation,Industrial/Defense,Oil & Gas,Public,San Ramon CA,1879.0,146.0,43000.0,Large (10K-50K),196.9,275.0,12.0,Yes,No
+Cargill,Industrial/Defense,Agriculture / Food Trading,Private,Wayzata MN,1865.0,160.0,160000.0,Enterprise (50K+),160.0,,,No,No
+UPS,Industrial/Defense,Logistics / Package Delivery,Public,Atlanta GA,1907.0,118.0,500000.0,Enterprise (50K+),91.1,95.0,39.0,Yes,Yes
+Delta Airlines,Industrial/Defense,Airlines,Public,Atlanta GA,1924.0,101.0,95000.0,Enterprise (50K+),58.0,35.0,64.0,Yes,Yes
+NIQ,Consulting,Market Research / Data Analytics,Public,Chicago IL,1923.0,102.0,30000.0,Large (10K-50K),6.4,8.0,,No,No
+AT&T,Technology,Telecommunications,Public,Dallas TX,1983.0,42.0,150000.0,Enterprise (50K+),122.4,130.0,13.0,Yes,Yes
+Sponsors for Educational Opportunity (SEO),Nonprofit,Education / Career Access,Nonprofit,New York NY,1963.0,62.0,300.0,Small (<1K),,,,No,No
+Management Leadership for Tomorrow (MLT),Nonprofit,Leadership Development,Nonprofit,New York NY,2002.0,23.0,100.0,Small (<1K),,,,No,No
+JP Morgan Chase,Finance/Fintech,Banking / Investment Banking,Public,New York NY,1799.0,226.0,309000.0,Enterprise (50K+),162.4,560.0,8.0,Yes,Yes
+[not provided],Unknown,Unknown,Unknown,Unknown,,,,,,,,No,No
+Hilton,CPG/Retail,Hospitality,Public,McLean VA,1919.0,106.0,178000.0,Enterprise (50K+),10.2,55.0,174.0,Yes,Yes
+Arsenal Capital Partners,Finance/Fintech,Private Equity,Private,New York NY,2000.0,25.0,200.0,Small (<1K),,,,No,No
