@@ -1,0 +1,1414 @@
+company,total_applications,non_applied_rows
+Apple,1172,430
+Morgan Stanley,776,499
+AT&T,774,660
+Chick-Fil-A,496,426
+Danone North America,448,364
+EY-Parthenon,439,389
+Ferrara Candy Company,419,363
+Meta,361,274
+L'Oreal USA Inc.,359,292
+Altria,341,260
+The Walt Disney Company,338,210
+PGIM,314,67
+JP Morgan Chase,285,161
+American Express Company Inc.,278,196
+Procter & Gamble,247,206
+Wellington Management Company LLP,229,127
+NIQ,218,141
+Vanguard Group,217,138
+Millennium Management,206,171
+Anheuser-Busch InBev,194,82
+The Clorox Company,181,104
+Fidelity Investments,179,105
+National Football League - NFL,165,109
+Fannie Mae,164,153
+PIMCO,156,43
+Gartner,155,110
+AQR Capital Management,150,135
+Colgate-Palmolive Company,150,110
+Reckitt,150,52
+McKinsey & Company,147,95
+Medtronic,136,19
+Hallmark Cards,132,93
+Analysis Group,125,75
+Abbott,123,76
+Kimberly-Clark,90,48
+LEK Consulting,84,50
+BNY Mellon,79,50
+Deutsche Bank,75,58
+IBM,74,28
+Barclays Capital,73,61
+American Express,67,9
+Blackstone,67,38
+International Business Machines Corporation (IBM),62,47
+Protiviti,60,45
+NVIDIA,58,21
+Boeing,56,42
+NBC Universal,56,34
+Cargill,55,29
+Johnson & Johnson,55,34
+Figma,55,22
+Atlassian,53,34
+Duolingo,51,29
+Piper Sandler,51,21
+General Electric Company (GE),50,44
+Delta Airlines,50,12
+Sponsors for Educational Opportunity (SEO),50,40
+Liberty Mutual Insurance,47,39
+DoorDash,47,11
+CVS Health,47,32
+Uber,47,28
+United Health Group (UHG),47,32
+"Prudential Financial, Inc.",46,29
+The D.E. Shaw Group,46,28
+Roblox,43,18
+Bridgewater Associates LP,43,12
+Creative Artists Agency (CAA),43,28
+Pandora,42,22
+National Basketball Association - NBA,42,15
+Nordstrom,41,30
+Principal Financial,41,12
+Lockheed Martin Aeronautics Co,40,26
+Honeywell,39,23
+Citadel LLC,39,17
+Hewlett-Packard (HP),39,20
+Tesla Motors,37,14
+Fidelity Consulting,37,22
+RBC Capital Markets,37,32
+Pinterest,35,9
+ExxonMobil Corp.,34,29
+Dropbox,33,12
+BNP Paribas,33,25
+Lyft,33,9
+Moody's,32,28
+FTI Consulting,32,26
+The Bridgespan Group,31,28
+Monitor Group,31,23
+Evercore,31,25
+Oracle,31,17
+United Airlines,30,11
+U.S. Bank,30,24
+"Wal-Mart Stores, Inc.",30,26
+Datadog,29,11
+Arsenal Capital Partners,28,5
+[not provided],28,16
+LPL Financial,27,3
+RSM,26,18
+William Blair,26,23
+Estee Lauder,26,4
+eBay,26,15
+SAP,26,7
+Booz Allen Hamilton,25,16
+Management Leadership for Tomorrow (MLT),25,11
+Intel,25,18
+Ares Management,25,18
+Nintendo,25,4
+Unilever,25,14
+General Motors Corporation,25,18
+UPS,25,13
+Jefferies,23,18
+Macy's,23,12
+E.L.F Cosmetics,23,10
+Northrop Grumman,23,16
+Electronic Arts (EA),23,9
+Raymond James,22,2
+Hilton,22,13
+Spotify,22,12
+Workday,22,14
+Lazard,22,14
+Home Depot,22,3
+Truist,22,10
+BMO Financial Group,21,12
+S&P Global,21,17
+Slack,21,9
+Under Armour,21,8
+Chevron Corporation,21,17
+Paramount Pictures,21,9
+The Coca-Cola Company,21,12
+CodePath,20,13
+Restaurant Brands International,20,11
+Guy Carpenter,20,7
+Freddie Mac,19,7
+Lehman Brothers Inc.,19,18
+Lincoln International,19,8
+Girls Who Invest,19,17
+Ford Motor Company,19,10
+Verizon,18,6
+Macquarie Group,18,6
+Twitter,18,12
+Baxter International,18,11
+Caterpillar,18,8
+Exelon,18,6
+T. Rowe Price Associates,18,15
+MetLife,18,14
+Texas Instruments,17,15
+Kohlberg Kravis Roberts & Co. L.P. (KKR),17,12
+ServiceNow,17,9
+Vista Equity Partners,17,13
+Qualcomm,16,4
+New York Life,16,5
+Toyota Motor Sales,16,6
+Discover Financial Services,16,12
+Royal Caribbean International,16,0
+Bain Capital,16,11
+The Capital Group Companies,16,12
+"Asana, Inc.",16,8
+Two Sigma,16,5
+Goodwill Industries International,16,13
+NASA,15,10
+PayPal,15,3
+EY Parthenon,15,2
+ESPN,15,10
+Nomura,15,14
+Merrill Lynch,15,15
+Ally Financial,14,3
+Sephora,14,2
+FactSet,14,12
+"Snap, Inc.",14,12
+John Deere,14,11
+Blue Cross Blue Shield,13,6
+Dow Jones & Co.,13,2
+Perella Weinberg Partners,13,12
+Aeris Communications,13,11
+Scotiabank,13,8
+HSBC,13,8
+Best Buy,13,11
+General Electric (GE) Aerospace,13,11
+Houlihan Lokey,13,10
+Boston Scientific,13,12
+Motorola Solutions,13,7
+BMO Bank of Montreal,13,9
+Synchrony Financial,13,9
+Disney ABC Television Group,13,5
+BCG Digital Ventures,13,7
+Expedia Group,13,6
+Coinbase,13,2
+State Farm,13,8
+Royal Bank of Canada (RBC),12,8
+Northwestern Mutual,12,8
+Sony Entertainment,12,3
+Vanguard,12,4
+Robinhood,12,10
+FOX,12,6
+Databricks,12,3
+3M,12,5
+Regions Bank,12,1
+Grant Thornton,12,12
+Allstate Insurance Company,12,4
+Cox Automotive,11,0
+Abercrombie & Fitch,11,5
+Mercer,11,4
+CIGNA,11,9
+Nestle,11,7
+McMaster-Carr,11,11
+Wayfair,11,4
+GoDaddy,11,2
+Leidos,11,7
+Framebridge,11,10
+BDO USA. LLC,11,7
+Hewlett Packard Enterprise,11,3
+Mercer Consulting,11,6
+Merck & Co,10,3
+Warner Bros. Entertainment,10,3
+Siemens,10,8
+Kraft Foods,10,9
+The New York Times,10,2
+Raymond James Financial,10,9
+Crowe LLP,10,4
+Grainger,10,7
+Victoria's Secret,10,3
+Schneider Electric,10,6
+Brown Advisory,10,8
+ICONIQ Capital,10,10
+Meta Facebook,10,5
+Brunswick Group,10,9
+NextEra Energy,10,5
+Major League Baseball,10,7
+TD Securities,10,7
+JLL,10,6
+Loop Capital,10,10
+Guardian Life Ins. Co. of America,10,0
+AbbVie,10,5
+West Monroe,10,3
+Capital Group,10,4
+Nationwide,10,5
+Turner Broadcasting,10,6
+Henkel,10,2
+Emerson Collective,10,8
+Fifth Third Bank,9,6
+Yahoo,9,3
+Lincoln Financial Foundation,9,0
+Epic,9,4
+Federal Reserve Bank of New York,9,3
+Epic Games,9,1
+GlaxoSmithKline,9,9
+Danaher Corporation,9,8
+JP Morgan Chase Foundation,9,4
+Phillips 66,9,7
+Plante Moran,9,6
+CBRE,9,7
+T-Mobile,9,3
+MUFG,9,5
+Kaiser Permanente,9,6
+DraftKings,9,1
+Ecolab,9,5
+Southwest Airlines,9,3
+Cyborg Mobile,9,5
+Stifel Financial Corp.,9,5
+AIG,9,9
+Liberty Mutual Group,9,6
+Stryker,9,1
+Riot Games,9,7
+DirecTV,9,3
+Department of Defense,9,9
+Charles Schwab,9,5
+Live Nation/Ticketmaster,8,3
+State Farm Insurance,8,3
+Gusto,8,1
+Kohl's,8,5
+BP America,8,7
+GCM Grosvenor,8,5
+PJT Partners,8,7
+Simon-Kucher,8,2
+ADP,8,5
+Audax,8,6
+Bloomingdale's,8,5
+Centerview Partners,8,7
+United Talent Agency,8,8
+Dimensional Fund Advisors,8,7
+Workiva,8,5
+Strategy&,8,7
+Zillow,8,6
+L3Harris Technologies,8,6
+Lumen,8,1
+CGI,8,4
+Equitable,8,1
+Expedia,8,4
+Ameriprise Financial,8,4
+CIBC,8,1
+Experian,8,0
+Adidas,8,5
+Marriott International,8,5
+Eaton,8,7
+Rivian,8,3
+Micron Technology,8,4
+Norfolk Southern Corporation,7,4
+McDonald's Corporation,7,4
+Moelis & Company,7,6
+Tiffany & Co.,7,3
+StepStone Group,7,5
+Union Pacific,7,2
+Beats by Dre,7,4
+Navy Federal Credit Union,7,2
+State Street,7,2
+Brown Brothers Harriman (BBH),7,3
+Teach For America,7,7
+HarbourVest Partners,7,5
+Splunk,7,4
+Samsung,7,5
+Bell Helicopter Textron Inc.,7,5
+ZS Associates,7,4
+Burger King,7,4
+Santander,7,5
+Cummins,7,7
+Revantage,7,4
+KeyBank,7,4
+DTCC,7,2
+"Lowe's Companies, Inc.",7,4
+Raytheon Technologies,7,6
+AMC Networks Inc.,7,1
+"Loomis, Sayles & Company",7,5
+Invesco US,7,2
+Dow Chemical Company,6,5
+Baupost Group,6,5
+Stanford University,6,6
+Pentair,6,3
+"AMEX Investments, Inc.",6,1
+MAIP,6,4
+MongoDB,6,3
+TIAA-CREF,6,5
+Shiseido,6,2
+Societe Generale Group,6,5
+Ogilvy & Mather,6,4
+Cox Communications,6,1
+Walgreens,6,5
+Dreamworks,6,4
+US Bancorp,6,5
+Cboe Global Markets,6,2
+Advanced Micro Devices (AMD),6,3
+Hearst Magazines,6,6
+Mattel,6,1
+David Yurman,6,0
+Rothschild & Co,6,5
+Sony Music Entertainment,6,5
+Susquehanna Growth Equity (SGE),6,1
+Nextdoor,6,4
+Thermo Fisher Scientific,6,2
+Baker Tilly,6,3
+Kroger,6,4
+The Estee Lauder Companies,6,3
+Humana,6,1
+Wal-Mart Foundation,6,2
+AutoZone,6,5
+Dick's Sporting Goods,6,2
+Greenwood Project,6,2
+Harrison Street,6,5
+U.S. Department of State,6,5
+Cardinal Health,6,1
+Alpine Investors,6,4
+DWS Group,6,4
+Cisco Meraki,6,3
+M&T Bank,5,1
+Wendy's,5,2
+Campbell Soup Company,5,2
+Publicis Sapient,5,3
+Polaris Industries,5,0
+Illumination Entertainment,5,4
+Koch,5,2
+Kendo/Fenty Beauty,5,5
+Stripe,5,4
+University Of Washington-Seattle Campus,5,5
+Sony Interactive Entertainment,5,5
+Twitch,5,2
+Kraft Heinz Company,5,2
+Airbnb,5,1
+P&G,5,3
+Whirlpool Corporation,5,5
+City of Philadelphia,5,5
+Hyatt,5,2
+World Wide Technology,5,3
+Fox Networks Group,5,4
+Columbia University (New York),5,3
+Xerox Corporation,5,5
+NBA Foundation,5,1
+Marathon Petroleum Corporation,5,5
+Bloom Energy,5,2
+Lawrence Livermore National Laboratory,5,3
+HSBC US Commercial Banking,5,5
+Lucid Motors,5,0
+Credit Karma,5,4
+"Land O'Lakes, Inc.",5,0
+Central Intelligence Agency (CIA),5,2
+SiriusXM,5,3
+Bytedance,5,1
+West Monroe Partners,5,3
+Sixth Street Partners,5,4
+TD Bank,5,2
+Adams Street Partners,5,0
+Spectrum Brands Holdings,5,1
+NASCAR,5,2
+Palantir,5,5
+Chick-fil-A Foundation,5,5
+DATADOG,5,2
+UNIQLO,5,1
+Neuberger Berman,4,4
+Walt Disney World Resort,4,2
+Shell Oil Company,4,3
+TJX Companies,4,2
+Quicken Loans,4,4
+FCA Fiat Chrysler Automobiles,4,4
+Simon-Kucher & Partners,4,4
+"Mizuho Bank, Ltd.",4,4
+Collins Aerospace,4,4
+SC Johnson,4,2
+The Rockefeller Foundation,4,2
+Intel Capital,4,4
+Thomson Reuters,4,1
+Capstone Investment Advisors,4,0
+DRW Trading Group,4,3
+PEAK6 Investments,4,1
+Unity Technologies,4,1
+HashiCorp,4,3
+BASF,4,2
+Tableau,4,4
+Charles River Associates,4,4
+PTC,4,3
+Northern Trust Corporation,4,4
+Sherwin Williams,4,1
+Medline Industries,4,4
+Tapestry,4,0
+MTV Networks,4,3
+Redbull,4,4
+Bank of Montreal,4,3
+Cornerstone Consulting,4,1
+Securian Financial Group,4,1
+ALDI,4,3
+The J.M Smucker Company,4,2
+Aon,4,3
+General Dynamics,4,3
+Aflac,4,2
+William Morris Endeavor (WME),4,4
+Okta,4,2
+Insight Partners,4,4
+Greylock Partners,4,4
+CDK Global,4,1
+City National Bank,4,4
+American Eagle,4,2
+Cummins Inc,4,4
+Universal Music Group,4,1
+Cerberus Capital Management,4,4
+The Carlyle Group,4,4
+United Technologies Corporation (UTC),4,3
+MORGAN STANLEY,4,0
+Justworks,4,2
+Northwestern University,4,3
+Cowen,4,3
+Dr. Pepper Snapple Group,4,0
+American Airlines,4,1
+Converse,4,2
+Bessemer Trust,4,2
+The Brattle Group,4,1
+Smithsonian Institution,4,4
+Uber Technologies,4,4
+The Hershey Company,4,2
+Genentech,4,3
+Crowe Horwath,4,3
+Condé Nast,3,3
+Henkel Corporation,3,1
+ANSYS,3,2
+CBS,3,2
+Bristol-Myers Squibb,3,3
+University Of Southern California,3,3
+Willis Towers Watson,3,2
+Jefferies Capital Partners LLC,3,3
+The Madison Square Garden Company,3,0
+SharkNinja,3,0
+Rockwell Automation,3,3
+Becton Dickinson,3,3
+PulteGroup,3,1
+Ariel Investments,3,3
+Edward Jones,3,2
+Maketa Investment Group,3,3
+Costco,3,1
+Gryphon Investors,3,3
+NetApp,3,2
+Barings,3,2
+University of California Office of the President (UCOP),3,1
+Cornerstone Research,3,2
+"BAE Systems, Inc.",3,0
+Gallagher Insurance,3,2
+Carnival Cruise Lines,3,2
+Genpact,3,0
+CNN,3,2
+FBI,3,2
+Pratt & Whitney,3,3
+A+E Networks,3,3
+Vivint Smart Home,3,2
+Jones Lang LaSalle,3,3
+Guide House,3,1
+Massachusetts Mutual Life Insurance,3,3
+Harvard Business Publishing,3,3
+FX Network,3,2
+BMO Harris Bank,3,3
+Discovery Communications,3,1
+Baird,3,2
+Dolby Laboratories,3,3
+Amgen Inc.,3,2
+Kellogg Company,3,1
+"DUMAC, Inc",3,0
+Louis Vuitton,3,1
+Moss Adams Capital LLC,3,3
+Kapor Capital,3,2
+Atlantic Records,3,2
+SELF-DIRECTED TIME OFF,3,2
+BMW,3,2
+PJ Solomon,3,1
+Bates White,3,2
+Catepillar,3,3
+MassMutual,3,3
+Turner Construction Company,3,3
+University of Georgia,3,3
+Chewy.com,3,2
+UCLA Health,3,2
+Fidelity National Financial,3,0
+"Inroads, Inc.",3,0
+Converse College,3,1
+Sotheby's,3,1
+"Foot Locker, Inc",3,3
+Heidrick & Struggles,3,3
+AB Bernstein,3,0
+Robert W. Baird & Co.,3,2
+Dixon Hughes,3,3
+Newell Rubbermaid,3,3
+Hines,3,2
+Porsche Cars North America,3,2
+RBC Foundation,3,0
+SpaceX,3,2
+Jeffries & Company,3,1
+Compass,3,3
+Guardian Insurance,3,0
+E & J Gallo Winery,3,2
+The Raine Group,3,2
+National Retail Federation,3,3
+World Bank Group,3,3
+Liz Claiborne,3,3
+Arup,3,2
+Honda USA Foundation,3,1
+Harlem Capital,3,1
+Huron Consulting,3,1
+Blizzard Entertainment,3,1
+Optum,3,2
+Burlington,3,1
+Whole Foods,3,2
+Sam's Club,3,2
+Johns Hopkins Applied Physics Lab,3,2
+Apollo Global Management,3,3
+Capgemini,3,1
+EMC,3,2
+Groupon,3,2
+Edwards Lifesciences,3,2
+ManpowerGroup,3,3
+The Brookings Institution,3,3
+Ulta Beauty,3,3
+VMware,3,3
+Huron Consulting Group,3,2
+Mortenson,3,3
+Brown University,3,3
+Oaktree Capital Management,3,3
+Walmart,3,0
+CDW,3,3
+Huntington Ingalls Industries,3,0
+DHL,3,1
+Cintas Corporation,3,2
+Williams-Sonoma,3,2
+Aetna,3,3
+Palo Alto Networks,3,2
+Standard Chartered Bank,3,1
+Univision Communications Inc,3,3
+Russell Reynolds & Associates,3,0
+"Artemis Real Estate Partners, LLC",3,3
+"Greystone & Co., Inc.",3,3
+iHeart Radio,3,3
+Gap Inc,3,3
+Korn Ferry,3,2
+Live Nation,3,0
+Jennison Associates LLC,3,2
+Coty,2,0
+National Grid,2,0
+SAS,2,2
+Veritiv,2,1
+MITRE,2,1
+HBO,2,2
+Pacific Gas & Electric,2,2
+Saks.com LLC,2,2
+LLR Partners,2,2
+Silver Lake Partners,2,2
+Indeed,2,1
+Kx Advisors,2,0
+Claymont Capital Partners,2,2
+The Davis Companies,2,2
+Hanes Brands,2,0
+Boston University,2,2
+Lenovo,2,0
+MLT,2,1
+Duke University,2,2
+First Data,2,2
+Newport News Shipbuilding,2,1
+Nickelodeon,2,2
+Siebert Cisneros Shank & Co.,2,2
+Lord Abbett,2,2
+NRG Energy,2,1
+Bath & Body Works,2,1
+DIFFvelopment,2,2
+Moet Hennessy,2,0
+Wieden and Kennedy,2,1
+The City of Boston,2,2
+Vevo,2,0
+10 Academy,2,1
+McKesson,2,0
+Lear,2,2
+Weaver,2,2
+Phillip Morris,2,2
+Avison Young,2,2
+Chubb,2,2
+Emerson,2,1
+Beckman Coulter,2,2
+Natixis Global Asset Management,2,1
+ADM (Archer Daniels Midland),2,0
+FedEx,2,1
+Gallagher,2,1
+MFS Investment Management,2,2
+Chan Zuckerberg Initiative,2,1
+Robin Hood,2,1
+Bertram Capital,2,1
+Sony BMG,2,0
+NYU SEAD Program,2,1
+Xcel Energy,2,1
+C.H. Robinson Worldwide,2,1
+Neiman Marcus,2,2
+Red Ventures,2,2
+Eastman Chemical,2,2
+MACRO,2,2
+Shure Incorporated,2,2
+Nielsen,2,2
+Akamai Technologies,2,1
+Urban Outfitters,2,0
+Maximus,2,0
+Frost Bank,2,1
+Cassel Salpeter and Co.,2,2
+Elevance Health,2,2
+Match Group,2,2
+Premiere Global Services,2,0
+"The TJX Companies, Inc.",2,2
+Dominion Energy,2,1
+Panasonic Avionics Corporation,2,0
+Turner,2,1
+The Walt Disney Company Foundation,2,1
+Jabil,2,2
+Comerica Bank - Texas,2,2
+FOX News Network,2,1
+Crewe Capital,2,2
+"MTS Health Partners, L.P.",2,1
+Congressional Hispanic Caucus Institute,2,0
+ConocoPhillips,2,2
+"Chicago Fundamental Investment Partners, LLC",2,1
+Centerbridge,2,1
+Drexel University,2,2
+Smith & Henzy Affordable Group,2,2
+Owens Corning,2,1
+Enterprise Holdings,2,1
+Corning Incorporated,2,2
+Bechtel Corporation,2,1
+US Foods,2,2
+Kyndryl,2,2
+Centene Corporation,2,2
+Levis,2,2
+U.S. Department of Energy,2,1
+Taproot Foundation,2,1
+Marriott,2,1
+Fairview Capital,2,2
+Harness Wealth,2,2
+Warburg Pincus,2,0
+Hanover Insurance Group,2,2
+Group One Trading LP,2,2
+BuzzFeed,2,0
+Jacobs Engineering Group,2,2
+JP Morgan (Corporate Match) Household,2,2
+CliftonLarsenAllen (CLA),2,0
+Snowflake,2,1
+American Civil Liberties Union Foundation (ACLU),2,0
+Bessemer Venture Partners,2,2
+ABC Fitness,2,2
+Mazars USA,2,2
+Kenvue,2,0
+Samsara,2,1
+21st Century Fox,2,0
+University Of Pennsylvania,2,2
+Cognizant,2,2
+Starwood Capital Group,2,1
+The Schwan Food Company,2,1
+Federal Reserve Bank of Chicago,2,1
+Walton Street Capital,2,2
+Belvedere Trading Company,2,2
+Golden State Warriors,2,0
+CSX,2,2
+Partners Capital Investment Group,2,2
+Heitman,2,2
+Liberty Latin America,2,2
+Vanguard Comm,2,1
+National Public Radio (NPR),2,0
+Slalom,2,2
+Charter Communications,2,2
+Interpublic Group,2,2
+Tradeweb,2,2
+Lionsgate,2,2
+USGA,2,0
+IMAX,2,1
+Spectrum Wealth Partners,2,0
+Genworth Financial,2,0
+Tyson Foods,2,0
+Fidelity Charitable Donor-Advised Fund,2,1
+BET,2,1
+Publix Super Markets,2,2
+Tidal Partners,2,1
+LabCorp,2,1
+Veeam,2,0
+Crown Holdings,2,0
+"Cravath, Swaine & Moore LLP",2,1
+Sodexo,2,1
+"Barnard College, Columbia University",2,2
+NFP,2,0
+Brighton Jones,2,2
+TPG Capital,2,2
+Sanofi,2,2
+CVS,2,1
+Andersen Corporation,2,2
+Cadence,2,1
+Ingredion Incorporated,2,0
+Wasserman Media Group,2,2
+Georgia Institute Of Technology-Main Campus,2,2
+"Moderna, Inc.",2,1
+AARP,2,0
+KIPP Foundation,2,2
+Voya Investment Management,2,2
+Arthur J. Gallagher,2,1
+General Electric Healthcare,2,2
+Samuel A. Ramirez & Co,2,2
+Blackhawk Network,2,0
+Chobani,2,0
+Manulife,2,0
+Wasserman,2,2
+Global Infrastructure Partners,2,2
+RAMP,2,2
+RapidSOS,2,0
+Vestar Capital,2,2
+Takeda Pharmaceuticals,2,0
+Constellation Brands,2,1
+Dexcom,2,1
+Honeybee,2,2
+Cencora,2,1
+New Profit Inc.,2,2
+Electronic Arts,2,0
+KBR,2,2
+Cars.com,2,2
+Ford Foundation,2,2
+Capital H,2,2
+FSG,2,1
+Upward Bound,2,2
+Federal Reserve Board,2,0
+ALDI Food Markets,2,2
+Crowdstrike,2,1
+"Oppenheimer & Co, Inc.",2,1
+Frito Lay,2,1
+BP,2,2
+Bozzuto,2,2
+The UCLA Foundation,2,2
+The White House,2,2
+Maverick Capital,2,2
+NCR,2,2
+BP - British Petroleum,2,2
+The Hartford,2,2
+"Niantic, Inc.",2,2
+Hormel Foods,2,1
+Capco,2,2
+U.S. Securities and Exchange Commission,2,2
+Parsons Corporation,2,1
+PlayStation,2,1
+Technip,1,1
+Synovis,1,1
+ING Capital,1,1
+Asset Consulting Group,1,0
+pax,1,1
+QlikView,1,1
+Progressive Insurance,1,0
+QHP Capital,1,1
+"Office of PR, NC A&T University",1,1
+Enterprise Community Partners,1,1
+CSL Behring,1,1
+Music World Entertainment,1,1
+Emory University,1,1
+Stone Point Capital,1,1
+Pure Storage,1,1
+Shopify,1,1
+Andersen,1,1
+Cadence Design Systems,1,0
+Microship,1,0
+Ryan Tax Firm,1,1
+Causeway Capital Management,1,1
+KeyBank Real Estate Capital,1,1
+Via Education,1,1
+Georgia State University,1,1
+PSP Investments,1,1
+Focus Financial Partners,1,1
+"Frank, Rimerman + Co. LLP",1,1
+"Brooks Sports, Inc",1,0
+Sebek,1,0
+"Central Houston, Inc.",1,1
+MultiPlan,1,1
+The City School,1,1
+KLR,1,0
+The Trade Desk,1,0
+Worthington Steel,1,1
+Skanska,1,1
+AEG Worldwide,1,0
+Renaissance Financial,1,0
+Omni Hotel,1,0
+Hatch Ltd.,1,1
+Emma Bowden Foundatioon,1,0
+SquareSpace,1,1
+Paychex,1,0
+JMU Tax & Accounting,1,1
+GID,1,1
+Americorps,1,1
+Sesame Workshop,1,1
+American Family Insurance Group,1,1
+Keller Williams Realty Signature Partners,1,1
+Oakley,1,1
+Sysco Corporation,1,1
+Scripps Networks,1,1
+McGladrey,1,1
+D.R. Horton,1,1
+The College Board,1,1
+CUNY City College,1,0
+Cockroach Labs,1,1
+Baton Valley,1,1
+Aramark,1,0
+Wallin Education Partners,1,0
+Stanley Black & Decker,1,1
+Optiver,1,0
+Pega,1,0
+Gulf Stream School,1,1
+Bayer,1,0
+Carter's,1,0
+Ingersoll Rand,1,1
+Tropical Foods LLC,1,1
+DiiVe,1,1
+Uncommon Schools,1,1
+Young America Capital,1,0
+IRTS Foundation,1,1
+Gallup Consulting,1,1
+Wedbush Securities,1,0
+Roland Berger LP,1,1
+Associated Students of Stanford University,1,0
+Federal Reserve Bank of Boston,1,0
+Kohls,1,1
+Children's Defense Fund,1,0
+Wall Street Journal,1,0
+Compass Group USA,1,1
+Intercontinental Exchange,1,0
+Curious  Cardinals,1,1
+"Hines Interests, L.P.",1,1
+Coca-Cola Foundation,1,0
+esri,1,1
+Obama Foundation,1,1
+Lippincott,1,0
+Avalon Bay,1,1
+American University,1,1
+Guidehouse,1,1
+Medidata Solutions,1,1
+Polen Capital,1,1
+Scholastic,1,0
+McDonalds,1,1
+H&R Block,1,1
+Legendary Entertainment,1,1
+Lithia Motors,1,1
+Greenhill & Co.,1,1
+Truist Foundation,1,0
+University of Michigan,1,1
+Fiserv,1,0
+KIPP DC,1,1
+Metropolitan Transportation Authority,1,1
+RotaCare Bay Area,1,1
+Zurich,1,0
+TO DELETE: Procter & Gamble,1,1
+C Spire,1,1
+JB Hunt Transport,1,0
+Levi Strauss & Co,1,0
+Plains Capital Bank,1,0
+Georgia-Pacific LLC,1,0
+Unibail-Rodamco-Westfield,1,1
+LOCKHEED MARTIN,1,0
+The African American Policy Forum,1,1
+Kia Motors,1,0
+Acquis Consulting Group,1,1
+Eagle Bank,1,1
+Fractal Analytics,1,1
+Green Courte Partners,1,1
+IPG Mediabrands,1,1
+Loop,1,1
+Techsmith,1,1
+Washington University in St. Louis,1,1
+HIVE Diversity,1,1
+Baltimore Ravens,1,1
+Southwest Bank of Texas,1,0
+Vwa Ayiti,1,1
+Universal Pictures,1,1
+City of Chicago,1,1
+Make-a-Wish Foundation,1,0
+Ruffin Consulting,1,1
+BSNF Railway Foundation,1,1
+Califia Farms,1,1
+Loomis|Sayles,1,0
+"Thoma Bravo, LLC",1,0
+Blue Shield of CA,1,0
+Economic Policy Institute,1,1
+HEINEKEN USA,1,0
+Rokt,1,0
+Monument Group,1,1
+GE HealthCare,1,1
+CDI Vietnam,1,1
+Campus Ink,1,0
+Schlumberger,1,1
+Technoserve,1,1
+CUNA Mutual Group,1,1
+Greystar,1,1
+DSM-Firmenich,1,0
+WSFS Bank,1,1
+West Builders,1,1
+13th Floor Investments,1,1
+World Finer Foods,1,0
+Modern Energy,1,0
+Falcon Farms Inc,1,1
+Veolia,1,1
+SBM Life Science,1,1
+Stifel,1,1
+OpenMartech,1,1
+Laidlow Foundation,1,1
+RKube,1,0
+State Attorney Office of Broward County,1,1
+"Broadridge Financial Solutions, Inc.",1,1
+Arthur D. Little (ADL),1,0
+The Chicago Community Trust,1,1
+Public School Forum of North Carolina,1,1
+Starwood Hotels,1,1
+Brookfield Financial,1,1
+Smith Barney,1,0
+CohnReznick LLP,1,1
+Twilio,1,1
+tastytrade,1,1
+HEB,1,1
+United Bank,1,1
+Ascension,1,0
+MIT Investment Management Company,1,1
+Summit Partners,1,1
+"Koch Industries, Inc.",1,0
+SOFWERX,1,1
+Acadian Asset Management,1,1
+National Center for Disaster Preparedness Research Institute,1,1
+NCR Voyix,1,0
+Sallie Mae Fund,1,1
+"U.S. Department of Energy, Savannah River Nuclear Solutions (SRNS)",1,1
+Phillips Exeter Academy,1,1
+National Association of Broadcasters (NAB),1,1
+Alphasights,1,1
+DoubleVerify,1,1
+Breckenridge Capital Advisors,1,1
+CalSTRS,1,1
+Ingenio,1,1
+Dun & Bradstreet,1,0
+She Is The Music,1,1
+Digital Promise,1,1
+Halliburton,1,1
+LW Hospitality Advisors,1,1
+Nuveen Investments,1,1
+Lands End,1,0
+DuPont,1,1
+University Of Maryland-Eastern Shore,1,0
+U.S. Senate,1,1
+"Keurig Green Mountain, Inc",1,0
+The Vistria Group,1,1
+Advent International,1,1
+Halogen Ventures,1,1
+AMERICAN EAGLE OUTFITTERS - AEO,1,1
+Robert Wood Johnson Foundation,1,1
+Association of Latino Professionals in Finance and Accounting (ALPFA),1,1
+LXP Industrial Trust,1,0
+Rackspace,1,1
+Signet Jewelers,1,1
+NerdWallet,1,1
+"Chanel, Inc",1,0
+Arselle Investments,1,0
+Tulane University School of Public Health and Tropical Medicine,1,1
+Conrad N. Hilton Foundation,1,1
+InvestBank Corp,1,0
+PVH,1,0
+"Buildout, Inc.",1,1
+Atlas Holdings LLC,1,1
+Zendesk,1,0
+ACCO Brands,1,0
+CNA,1,1
+The LEGO Group,1,0
+G-3 Agency,1,1
+Atlanta Hawks,1,0
+Other Organization,1,0
+BorgWarner,1,1
+Inkel Direct,1,1
+Brother's Brother Foundation,1,0
+Health Care Services Corporation,1,1
+Mohawk Industries,1,1
+New York Stock Exchange (NYSE),1,1
+Mayo Clinic,1,0
+Bose Corporation,1,0
+Robert Half International Inc.,1,1
+Thompson Hospitality,1,1
+Evoqua Water Technologies,1,1
+Albright Stone Bridge,1,1
+Oaktree Capital,1,1
+IPG,1,1
+Lirvana Labs,1,1
+AutoNation,1,1
+Brevan Howard,1,1
+United Nations Development Programme,1,1
+National Urban League,1,1
+PS&S LLC,1,0
+Stanford University - Graduate School of Business,1,1
+Black Venture Capital Consortium,1,1
+Matthews Real Estate Investments,1,1
+Eagle Rock Properties,1,1
+Pennwood Real Estate Investment Management,1,1
+Drabzeen Human Development,1,1
+Kapor Center for Social Impact,1,1
+Rakuten,1,0
+BoCa Flavor,1,0
+LVMH,1,1
+WP Engine,1,1
+Wegmans Food Markets Inc,1,1
+United Rentals,1,0
+Newark Venture Partners,1,1
+Clearwater Paper Corporation,1,1
+AmeriSave Mortgage Corporation,1,1
+Cushman & Wakefield,1,1
+Dystonia Medical Research Foundation,1,1
+Staples,1,1
+MathWorks,1,0
+The American Chamber of Commerce,1,1
+Mexican International Chamber of Commerce and Industry,1,1
+Ideo,1,0
+Battelle,1,1
+BYU Ballard Center for Social Impact,1,1
+Engineering Inspections & Restoration Services,1,1
+Consumers Energy,1,1
+Chipotle,1,0
+Brookfield Properties,1,1
+Wholesale & Specialty Insurance Association,1,1
+Skai,1,1
+PNC Foundation,1,0
+"University of California, Merced",1,1
+Beam Suntory,1,1
+Pulse Records,1,1
+Accelerated Sales,1,0
+Ferrazi Greenlight,1,1
+Edge Corporation,1,1
+University Of Illinois,1,1
+Tencent,1,0
+Yext,1,0
+Nokia,1,1
+Trimble Inc.,1,0
+Credit Agricole CIB,1,0
+MGM Resorts International,1,1
+Indaba Capital Management,1,1
+Athenahealth,1,0
+Bahl & Gaynor Investment Counsel,1,1
+University of Pennsylvania - The Wharton School,1,0
+Equinix,1,1
+Iowa State University,1,1
+Dell Corp. Foundation,1,1
+Revolt TV Network,1,1
+Yale School of Management Executive Education,1,1
+Hubbell Incorporated,1,0
+Amtrak,1,1
+Santa Clara University,1,1
+Fortress Investment Group,1,1
+Harvard Business School,1,1
+LionTree LLC,1,1
+Nylon Pie,1,1
+City of Atlanta,1,1
+Capstone Partners,1,1
+El Gra de Blat NGO,1,1
+Avanath Capital Management,1,1
+NBC Sports Group,1,1
+Houston Astros,1,0
+RaiseDC,1,1
+EAB,1,1
+Federal Reserve of Cleveland,1,1
+Amherst College,1,1
+Egon Zehnder,1,1
+Blue Kite Capital,1,1
+Paycom,1,0
+Stateless Collective,1,1
+The Andrew W. Mellon Foundation,1,1
+Highspot Inc.,1,1
+Forvis,1,1
+The Energy Business of Perella Weinberg Partners,1,0
+Duck Creek Technologies,1,1
+A New Way Forward,1,1
+Test Org,1,1
+Ovative/group,1,0
+Roland Berger Strategy Consultants,1,1
+Reservoir Media,1,1
+US Postal Service,1,1
+Accel Partners,1,0
+K-Star,1,1
+Southern Methodist University,1,1
+Maidenform,1,0
+MIT Office of Engineering Outreach Programs,1,0
+Gravak,1,1
+Pacific Life,1,0
+Garda Capital,1,0
+National Security Agency,1,1
+American Indian Graduate Center,1,1
+Massachusetts Institute Of Technology,1,0
+UT Southwestern Medical Center,1,0
+Molson-Coors,1,1
+Astound Broadband,1,1
+Berkshire Partners,1,1
+The Starbucks Foundation,1,0
+ConAgra Foods,1,0
+"LiveIntent, Inc.",1,1
+New York Times Company,1,1
+Gensyn,1,0
+"Community Wealth Ventures, Inc.",1,0
+NOLASKINSENTIALS,1,1
+Amerant Bank,1,1
+Romero Capital,1,1
+General Atlantic,1,1
+FredHutch,1,1
+First Hawaiian Bank,1,1
+DXC Technology,1,1
+DocuSign,1,0
+Stanbic IBTC,1,1
+TortoiseEcofin,1,1
+Moody's Analytics,1,0
+Lincoln Center for the Performing Arts,1,1
+Benefit Street Partners,1,1
+Group 14 Technologies,1,1
+NERA Economic Consulting,1,0
+National Science Foundation,1,0
+Accel,1,1
+Revelstoke Capital Partners,1,1
+Team4Tech,1,1
+Minnesota Timberwolves,1,1
+American Cancer Society,1,0
+Mercedes Benz,1,0
+"Skadden, Arps, Slate, Meagher & Flom LLP",1,1
+Curriculum Associates,1,1
+Avanade Inc.,1,1
+Cross Harbor Capital,1,1
+Code Differently,1,1
+University Of Chicago,1,1
+"Mitchell International, Inc.",1,1
+Concert Genetics,1,1
+Archer Daniels Midland,1,1
+Guthrie AI,1,1
+SAIC,1,1
+SurveyMonkey,1,1
+The John D. and Catherine T. MacArthur Foundation,1,0
+Furniture Industries Inc,1,1
+ATT,1,1
+Springboard,1,1
+New York University,1,1
+Geico,1,1
+CommScope,1,1
+BHP Billiton,1,0
+Dentsu Aegis Network,1,1
+Fastly,1,1
+Strategic View Advisors,1,1
+Tractor Supply,1,0
+NetSmart,1,0
+BioMarin Pharmaceutical Inc.,1,0
+Annie E. Casey Foundation,1,1
+Interrepublic Group,1,1
+WEX,1,0
+University of Texas System,1,1
+rovisys,1,1
+Monday Morning Global Institute,1,0
+Garmin,1,1
+Amalgamated Bank,1,1
+Dentons,1,0
+Dept. of Housing & Urban Development,1,1
+Independence Blue Cross,1,0
+Rottet Studios,1,1
+Department of Homeland Security,1,1
+University Of Alabama In Huntsville,1,1
+Metropolitan Council,1,1
+sophia town arts akademy,1,1
+"University of California, Los Angeles",1,1
+International Paper,1,1
+Navigant Consulting,1,1
+ClearBridge Investments LLC,1,1
+Harris Associates,1,1
+Federal Reserve Bank of Cleveland,1,0
+Southern California Edison,1,1
+NiSource,1,1
+Kirkland & Ellis LLP,1,1
+Ashoka,1,1
+World Business Chicago,1,0
+Crescite Holdings,1,1
+CodoniX,1,1
+Oak Ridge National Laboratory,1,1
+Scrum Ventures,1,0
+A Free Bird,1,1
+University Of Florida,1,1
+Quench,1,1
+Evergy,1,0
+Environmental Defense Fund (EDF),1,1
+CommonPoint,1,1
+Yale University,1,1
+Mi Familia Vota,1,1
+ABM Industries,1,1
+"Walton Family Foundation, Inc.",1,1
+Redd Success,1,1
+Clarion Partners,1,1
+Key Bank,1,0
+Bruin Capital,1,1
+US Army,1,1
+Prince William County,1,1
+United States Air Force Academy,1,1
+BlackFem,1,1
+YMCA,1,1
+Fitch Ratings,1,1
+AXA Financial,1,1
+"Kabouter Management, LLC",1,1
+StudentBrains,1,1
+"Arcadia Group, LLC",1,1
+Stealth Company,1,1
+Verisk Analytics,1,1
+Genuine Parts,1,0
+Caterpillar Financial,1,1
+University Of South Carolina-Columbia,1,1
+IAC/InterActiveCorp,1,1
+EQT,1,1
+Vanderbilt University,1,1
+Publicity Pieces,1,0
+HatchWorks,1,1
+State Street Foundation,1,1
+McGarry Bowen,1,1
+Kendall Homes,1,1
+Arizona State University,1,1
+Grain Management,1,1
+Externship,1,1
+TATA Consulting Services,1,1
+Center of Disease Control,1,0
+Wesleyan University,1,1
+Nutanix,1,0
+Otis Elevator Company,1,1
+Voloridge Investment Management,1,1
+Thrivent Financial for Lutherans,1,1
+Wealthy Habits,1,1
+Duke Energy Gas,1,1
+WebMD Health Services,1,1
+One World Media,1,1
+Zoom Video Communications,1,1
+AT&T Foundation,1,1
+Lamont-Doherty Earth Observatory at Columbia University,1,1
+Moloco,1,0
+Zscaler,1,1
+Montecito Bank & Trust,1,1
+University of Washington - Foster School of Business,1,1
+Federal Reserve Bank of Kanas City,1,1
+Barclaycard US,1,1
+FCB,1,1
+Reboot Representation,1,0
+GGV Capital,1,0
+The Riverside Company,1,1
+CVC Capital Partners,1,1
+20K Group,1,1
+City of Houston Mayor's Office,1,1
+IEQ Capital,1,1
+Bentley Associates,1,0
+Philips,1,0
+Block,1,0
+United States Department of Agriculture,1,1
+Varian,1,1
+Quartz Atlantic Media,1,1
+Illinois Tool Works,1,1
+Alcon,1,1
+Avangrid,1,0
+Smithsonian National Museum of African American History and Culture,1,0
+American Heart Association,1,0
+Valley Bank,1,1
+Sabre,1,0
+Graham Partners,1,1
+Society for Human Resource Management (SHRM),1,1
+Chegg,1,1
+HarperCollins Publishers,1,1
+Bromley Ad Agency,1,1
+DTE Energy,1,1
+University Of Massachusetts-Amherst,1,1
+Chemical Abstracts Service,1,1
+Carnegie Mellon University,1,0
+BDT Capital,1,0
+Penguin Press,1,1
+Starcom MediaVest Group,1,0
+IHS Markit,1,1
+Florida State University,1,1
+U.S. House of Representatives,1,1
+Teradata,1,1
+University of Illinois at Urbana-Champaign,1,1
+Anomaly,1,1
+"Jump Management, LLC",1,0
+Vimeo,1,1
+RevRoad,1,1
+BRG,1,1
+HealthPartners,1,1
+R.L. Hairston & Associates,1,1
+Qualcomm Ventures,1,0
+Flat World Partners,1,1
+Ziegler,1,1
+TZP Group,1,1
+Redfin,1,1
+Making Waves Foundation,1,1
+Columbia Business School,1,1
+Williams College,1,0
+"Bear Stearns & Co., Inc",1,1
+Sage,1,1
+National Geographic Society,1,1
+Alumni Athlete Program,1,1
+eadem,1,0
+Apollo Opportunity Foundation,1,1
+Boulder Council for International Visitora,1,1
+Roark Capital,1,1
+HeraldPR,1,1
+Sterling Associates,1,0
+Federal Reserve Bank of St. Louis,1,1
+Morgan State University,1,1
+Infoblox,1,1
+Battery Ventures,1,1
+Simon Property Group,1,0
+The Port Authority of NY & NJ,1,1
+Russell Investments,1,1
+Gap Inc.,1,1
+Francisco Partners,1,1
+Florida A&M University,1,1
+Alaska Airlines,1,0
+Allianz,1,0
+NSA,1,0
+Defense Intelligence Agency,1,0
+USAA,1,0
+The Cleveland Foundation,1,1
+US Chamber of Commerce,1,1
+University of Washington Career & Internship Department,1,1
+Casey Family Programs,1,1
+Rutgers University,1,1
+Dollar Tree,1,1
+Munich Re,1,1
+Ralph Lauren,1,1
+HOK Consulting,1,1
+Bennett Thrasher,1,1
+Illumen Capital,1,1
+The Rock Creek Group,1,0
+optum,1,1
+Cornell University,1,1
+SMSB Consulting,1,1
+NASDAQ,1,1
+Monomoy Capital Partners,1,1
+First and First Consulting,1,1
+Dartmouth College,1,1
+Ocean Bank,1,1
+Wind Point Partners,1,1
+Related Companies,1,1
+PPM America,1,1
+Wisk,1,1
+pathway capital management,1,1
+Assured Guaranty,1,1
+Decisive Analytics,1,1
+KKR,1,0
+Air Force Research Laboratory,1,1
+MissionOG,1,1
+Pratt Whitney,1,1
+Asurion,1,1
+Baird Foundation,1,1
+AECOM,1,0
+Highmark Health,1,0
+New Mountain Capital,1,1
+Holistic,1,1
+Southwire,1,0
+"J. C. Penney Company, Inc.",1,1
+Altman Solon,1,0
+Philip Morris International,1,1
+Aeris Technologies,1,0
+LPL Financial Foundation,1,0
+CHEVRON,1,0
+University Of North Carolina At Chapel Hill,1,1
+University of Notre Dame - Mendoza College of Business,1,1
+ICM Partners,1,1
+KIPP NYC,1,1
+Yelp,1,1
+Jaguar Land Rover,1,1
+Connecticut Small Business Development Center,1,1
+North Country Holdings,1,1
+Federal Home Loan Bank of Chicago,1,1
+Mutual of Omaha Insurance,1,0
+Pittsburgh Center for Arts & Media,1,1
+Vertical Screen,1,0
